@@ -1,3 +1,11 @@
-# data_structure
-Here are solutions for data structure in computer science. Please checkout these as you want. And I'll be appreciated if you have any suggestion for any solutions posted here.
+# Computer Science
 
+这个仓库用于存放算法和数据结构的相关代码及文档。
+
+目录结构如下：
+
+* algorithm：算法目录
+* data-structure：数据结构目录
+* doc：文档目录
+
+欢迎clone代码以及任何建议。
